@@ -1,0 +1,18 @@
+{
+  "n_epochs": 4689,
+  "n_drowsy": 1240,
+  "n_subjects": 20,
+  "folds": 5,
+  "model": {
+    "balanced_accuracy": 0.7699844040815944,
+    "roc_auc": 0.8417390735042415,
+    "drowsy_recall": 0.7846774193548387,
+    "awake_recall": 0.7552913888083502
+  },
+  "baseline_theta_alpha_only": {
+    "balanced_accuracy": 0.5850177470795649,
+    "roc_auc": 0.6002672583918668,
+    "drowsy_recall": 0.6846774193548387,
+    "awake_recall": 0.4853580748042911
+  }
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "subject": 0,
+    "night": 1,
+    "file": "SC4001E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.08,
+    "epochs_awake": 188,
+    "epochs_drowsy": 58
+  },
+  {
+    "subject": 1,
+    "night": 1,
+    "file": "SC4011E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.35,
+    "epochs_awake": 157,
+    "epochs_drowsy": 109
+  },
+  {
+    "subject": 2,
+    "night": 1,
+    "file": "SC4021E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.37,
+    "epochs_awake": 128,
+    "epochs_drowsy": 94
+  },
+  {
+    "subject": 3,
+    "night": 1,
+    "file": "SC4031E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.5,
+    "epochs_awake": 140,
+    "epochs_drowsy": 61
+  },
+  {
+    "subject": 4,
+    "night": 1,
+    "file": "SC4041E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 21.42,
+    "epochs_awake": 200,
+    "epochs_drowsy": 166
+  },
+  {
+    "subject": 5,
+    "night": 1,
+    "file": "SC4051E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.68,
+    "epochs_awake": 208,
+    "epochs_drowsy": 44
+  },
+  {
+    "subject": 6,
+    "night": 1,
+    "file": "SC4061E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.08,
+    "epochs_awake": 142,
+    "epochs_drowsy": 56
+  },
+  {
+    "subject": 7,
+    "night": 1,
+    "file": "SC4071E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.42,
+    "epochs_awake": 124,
+    "epochs_drowsy": 89
+  },
+  {
+    "subject": 8,
+    "night": 1,
+    "file": "SC4081E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.3,
+    "epochs_awake": 323,
+    "epochs_drowsy": 68
+  },
+  {
+    "subject": 9,
+    "night": 1,
+    "file": "SC4091E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.77,
+    "epochs_awake": 150,
+    "epochs_drowsy": 19
+  },
+  {
+    "subject": 10,
+    "night": 1,
+    "file": "SC4101E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.67,
+    "epochs_awake": 155,
+    "epochs_drowsy": 65
+  },
+  {
+    "subject": 11,
+    "night": 1,
+    "file": "SC4111E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.02,
+    "epochs_awake": 126,
+    "epochs_drowsy": 13
+  },
+  {
+    "subject": 12,
+    "night": 1,
+    "file": "SC4121E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.22,
+    "epochs_awake": 176,
+    "epochs_drowsy": 48
+  },
+  {
+    "subject": 13,
+    "night": 1,
+    "file": "SC4131E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.45,
+    "epochs_awake": 155,
+    "epochs_drowsy": 57
+  },
+  {
+    "subject": 14,
+    "night": 1,
+    "file": "SC4141E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.97,
+    "epochs_awake": 187,
+    "epochs_drowsy": 29
+  },
+  {
+    "subject": 15,
+    "night": 1,
+    "file": "SC4151E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 21.83,
+    "epochs_awake": 172,
+    "epochs_drowsy": 41
+  },
+  {
+    "subject": 16,
+    "night": 1,
+    "file": "SC4161E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 21.88,
+    "epochs_awake": 216,
+    "epochs_drowsy": 55
+  },
+  {
+    "subject": 17,
+    "night": 1,
+    "file": "SC4171E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.85,
+    "epochs_awake": 176,
+    "epochs_drowsy": 21
+  },
+  {
+    "subject": 18,
+    "night": 1,
+    "file": "SC4181E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 22.97,
+    "epochs_awake": 138,
+    "epochs_drowsy": 29
+  },
+  {
+    "subject": 19,
+    "night": 1,
+    "file": "SC4191E0-PSG.edf",
+    "channel": "EEG Fpz-Cz",
+    "sfreq": 100.0,
+    "hours_recorded": 23.12,
+    "epochs_awake": 188,
+    "epochs_drowsy": 118
+  }
+]
