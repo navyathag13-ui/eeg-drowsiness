@@ -2,6 +2,8 @@
 
 My B.E. mini-project detected driver drowsiness with an Arduino Uno and Nano by noticing when the eyes stayed closed too long. This project asks whether brain signals can show the same change. It detects the drowsy transition between waking and sleep (sleep stage 1) from a single EEG channel, using public recordings from PhysioNet.
 
+**Why it matters:** drowsy drivers often do not notice they are drifting off. A single forehead-to-crown channel (Fpz-Cz) is the kind of signal a headband could record, so the real question is whether one channel is enough. **Answer:** it carries real signal (ROC AUC 0.84 on people the model never saw), but the single ratio usually cited is close to chance, and this is sleep-lab data, not driving data.
+
 It is a small Python package with four parts:
 
 1. **Load**: read each EEG recording and its sleep-stage labels, keep the night (plus 30 minutes of waking on each side) and cut it into 30-second epochs labeled `awake` or `drowsy`.
